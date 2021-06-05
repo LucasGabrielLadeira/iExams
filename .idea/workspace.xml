@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fd5b8d1-7d5c-4964-9f09-031a4d317ebe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/Login/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/grupou.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/grafismo_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo_facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo_instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo_linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ButtonFilled.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ButtonOutlined.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Input.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UploadImage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/skillbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/CreateSubject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Skill/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Skill/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/StudentArea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tPj2zqcdNiOomPdXkLOeRwGUGi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sheila\grupou\pages" />
+      <recent name="C:\Users\Sheila\grupou\pages\Signup" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sheila\grupou\pages\Login" />
+      <recent name="C:\Users\Sheila\grupou" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fd5b8d1-7d5c-4964-9f09-031a4d317ebe" name="Default Changelist" comment="" />
+      <created>1622677424025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622677424025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1622902197654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1622902197654" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1622920571040">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1622920571040" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1622678182354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1622678182354" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1622857198363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1622857198363" />
+  </component>
+</project>
